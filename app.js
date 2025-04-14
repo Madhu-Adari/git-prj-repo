@@ -1,3 +1,3 @@
-echo "console.log('Hello Git!');" > app.
+console.log('Hello Git!');
 
-// this in new feature branchjs
+// this in new feature branchjsgit
